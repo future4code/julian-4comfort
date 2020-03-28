@@ -1,0 +1,27 @@
+footer{
+    color:  #080E26;
+}
+#icons-social  a, #icons-pagamento a{
+    color:  #080E26;
+    font-size: 35px;
+    margin: 3px;
+}
+footer a {
+    text-decoration: none;
+}
+#sobre-nos p:hover {
+    color: #080E26;
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.6);
+}
+.zoom:hover i{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.4);
+}
+.zoom:hover #sobre-nos a{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.4);
+}
