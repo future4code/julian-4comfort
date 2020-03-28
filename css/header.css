@@ -1,9 +1,22 @@
-.header{
+header{
     background-color: #DAE5E8;
+    max-height: 100px;
 }
 
-#icones{
-    background-color: #DAE5E8;
-    color: #2e3237;
-    list-style-type: none;
+header img{
+    float: left;
+    height: 100px;
 }
+
+header .icones-header{
+    float: right;
+}
+
+.icones-header a{
+    color: #080E26;
+    text-decoration: none; 
+    justify-content: flex-end; 
+    padding: 10px;  
+}
+
+
