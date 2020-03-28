@@ -3,7 +3,6 @@ nav div{
     justify-content: space-around;
     margin: 0;
 }
-
 nav a{
     display: block;
     text-decoration: none;
@@ -11,7 +10,6 @@ nav a{
     font-size: large;
     padding: 10px;
  }
-
  @media screen and (max-width:400px){
     nav .row{
         display: grid;
