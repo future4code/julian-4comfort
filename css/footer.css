@@ -17,7 +17,7 @@ footer div a{
     transform: scale(1.6);
     color: #F28544;
 }
-}
+
 .zoom:hover i{
     -moz-transform: scale(1.1);
     -webkit-transform: scale(1.1);
