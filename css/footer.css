@@ -1,3 +1,6 @@
+footer{
+    background-color: #DAE5E8
+}
 #icons-social  a, #icons-pagamento a{
     color:  #080E26;
     font-size: 35px;
@@ -12,6 +15,8 @@ footer div a{
     -moz-transform: scale(1.3);
     -webkit-transform: scale(1.3);
     transform: scale(1.6);
+    color: #F28544;
+}
 }
 .zoom:hover i{
     -moz-transform: scale(1.1);
