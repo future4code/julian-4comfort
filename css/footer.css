@@ -1,13 +1,11 @@
-footer{
-    color:  #080E26;
-}
 #icons-social  a, #icons-pagamento a{
     color:  #080E26;
     font-size: 35px;
     margin: 3px;
 }
-footer a {
+footer div a{
     text-decoration: none;
+    color:  #080E26;
 }
 #sobre-nos p:hover {
     color: #080E26;

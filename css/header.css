@@ -1,17 +1,21 @@
 header{
     background-color: #DAE5E8;
+    height: 100px;
     max-height: 100px;
 }
 header img{
     float: left;
     height: 100px;
 }
-header .icones-header{
-    float: right;
+.icones-header{
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 .icones-header a{
+    align-self: center;
     color: #080E26;
     text-decoration: none; 
-    justify-content: flex-end; 
     padding: 10px;  
 }
