@@ -1,0 +1,78 @@
+#produtos img{
+    max-width: 70%;
+}
+
+#produtos a{
+    text-decoration: none;
+    color: black;
+}
+
+.card-produto h3, .card-produto h4{
+    margin: 0;
+}
+
+.card-produto h4{
+    margin-bottom: 30px;
+}
+
+.img-produto{
+    max-width: 100%;
+    width: 100%;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+#produto-1{
+    background-image: url("../imagens/produtos/ariesoxford.jpg");
+}
+
+#produto-1:hover{
+    transition: .5s ease;
+    background-image: url("../imagens/produtos/ariesoxford2.jpg");
+}
+
+#produto-2{
+    background-image: url("../imagens/produtos/amendoaoxford.jpg");
+}
+
+#produto-2:hover{
+    transition: .5s ease;
+    background-image: url("../imagens/produtos/amendoaoxford2.jpg");
+}
+
+#produto-3{
+    background-image: url("../imagens/produtos/Suzi_Chunky_Chelsea_Boot_1_1414x1414.jpg");
+}
+
+#produto-3:hover{
+    transition: .5s ease;
+    background-image: url("../imagens/produtos/Suzi_Chunky_Chelsea_Boot_1_1414x14142.jpg");
+}
+
+#produto-4{
+    background-image: url("../imagens/produtos/Bergamota_Cutout_Oxford_1_1414x1414.webp");
+}
+
+#produto-4:hover{
+    transition: .5s ease;
+    background-image: url("../imagens/produtos/Bergamota_Cutout_Oxford_1_1414x14142.webp");
+}
+
+#produto-5{
+    background-image: url("../imagens/produtos/locineira.webp");
+}
+
+#produto-5:hover{
+    transition: .5s ease;
+    background-image: url("../imagens/produtos/locineira2.webp");
+}
+
+#produto-6{
+    background-image: url("../imagens/produtos/soldeOutono.webp");
+}
+
+#produto-6:hover{
+    transition: .5s ease;
+    background-image: url("../imagens/produtos/soldeOutono2.webp");
+}

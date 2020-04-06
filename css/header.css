@@ -1,0 +1,25 @@
+*{
+    font-family: 'Michroma', sans-serif;
+}
+header{
+    background-color: #DAE5E8;
+    height: 100px;
+    max-height: 100px;
+}
+header img{
+    float: left;
+    height: 100px;
+}
+.icones-header{
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.icones-header a{
+    align-self: center;
+    color: #080E26;
+    text-decoration: none; 
+    padding: 10px; 
+    font-size: x-large; 
+}

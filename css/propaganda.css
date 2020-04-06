@@ -1,0 +1,49 @@
+
+
+#propaganda .efeito{
+    padding-bottom: 20px;
+}
+
+#propaganda .imagem-propaganda{
+    max-width: 100%;
+    width: 100%;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#propaganda-1{
+    background-image: url("../4comfort.png");
+}
+
+
+#propaganda-2{
+    background-image: url("../4comfort.png");
+}
+
+#propaganda-3{
+    background-image: url("../4comfort.png");
+}
+
+#propaganda .btn-propaganda{
+    opacity: 0;
+}
+
+#propaganda .efeito:hover .btn-propaganda{
+    opacity: 1;
+}
+
+.btn-propaganda{
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+    background-color: #F28544;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+}
+
+#propaganda{
+    margin-bottom: 50px;
+}

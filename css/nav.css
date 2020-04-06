@@ -1,0 +1,26 @@
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    font-size: large;
+}
+nav ul li{
+    display: inline;
+ }
+
+ nav ul li a{
+    color: #080E26;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+ 
+ nav ul li a:hover{
+    color: #F28544;
+ }
+
+ @media screen and (max-width: 480px){
+     nav ul li{
+         display: block;
+     }
+ }
